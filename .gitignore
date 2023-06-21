@@ -1,0 +1,5 @@
+# Wally directories
+/Packages
+
+# Luau LSP files
+/sourcemap.json
