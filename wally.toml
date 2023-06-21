@@ -4,6 +4,7 @@ description = "Fork of MaximumADHD's Roblox-PNG-Library modified for Wally"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+license = "MIT"
 authors = ["MaximumADHD"]
 
 [dependencies]
