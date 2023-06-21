@@ -1,28 +1,14 @@
 {
-	"name": "Roblox-PNG-Library",
-	
-	"tree": 
-	{
-		"$className": "DataModel",
+	"name": "PNG",
+	"tree": {
+		"$path": "init.lua",
 		
-		"ReplicatedStorage":
-		{
-			"$className": "ReplicatedStorage",
-			
-			"PNG":
-			{
-				"$path": "init.lua",
-				
-				"Chunks":
-				{
-					"$path": "Chunks"
-				},
+		"Chunks": {
+			"$path": "Chunks"
+		},
 
-				"Modules":
-				{
-					"$path": "Modules"
-				}
-			}
+		"Modules": {
+			"$path": "Modules"
 		}
 	}
 }

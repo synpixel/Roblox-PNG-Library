@@ -1,0 +1,17 @@
+{
+  "name": "PNG",
+  "tree": {
+    "$path": { "optional": "Packages" },
+    "png": {
+      "$path": "init.lua",
+
+      "Chunks": {
+        "$path": "Chunks"
+      },
+
+      "Modules": {
+        "$path": "Modules"
+      }
+    }
+  }
+}
